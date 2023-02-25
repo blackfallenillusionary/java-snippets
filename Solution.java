@@ -1,3 +1,8 @@
+/**
+ * Solution written in Java. Source: https://codility.com/media/train/solution-min-abs-sum.pdf
+ * 
+ */
+
 import java.util.*;
 
 class Solution {
